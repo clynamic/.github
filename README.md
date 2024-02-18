@@ -19,7 +19,8 @@ strongly align with. I also wish for a future where our work is not driven by pr
 The name "clynamic" consists of the word "dynamic" and a play on the fact that "c" and "l" together look similar to "d", which is also used in my own username.
 Note that for this reason, our name is always written in lowercase.
 
-I have founded this company to publish my software under an identity that does not include my name. I have a strong believe in personal privacy and I want to keep my personal life separate from my professional life.
+I have founded this company to publish my software under an identity that does not include my name.
+I have a strong believe in personal privacy and prefer to seperate my personal life from my work.
 
 We are a fully legal company, registered in the US under the name "clynamic LLC".
 
