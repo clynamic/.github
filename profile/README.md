@@ -1,6 +1,6 @@
 # clynamic
 
-[<img src="./logo.png" width="100px;"/>](https://clynamic.net)
+[<img src="https://github.com/clynamic.png" width="100px;"/>](https://github.com/clragon)
 
 determined, diligent, distinguished.
 
@@ -26,6 +26,6 @@ We are a fully legal company, registered in the US under the name "clynamic LLC"
 
 ## Employees
 
-| [<img src="https://github.com/clragon.png" width="100px;"/>](https://github.com/clragon)
-|---|
-| [clragon](https://github.com/clragon) (CEO) |
+| [<img src="https://github.com/clragon.png" width="100px;"/>](https://github.com/clragon) |
+| ---------------------------------------------------------------------------------------- |
+| [clragon](https://github.com/clragon) (CEO)                                              |
