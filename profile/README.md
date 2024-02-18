@@ -1,6 +1,6 @@
 # clynamic
 
-[<img src="logo.png" width="100px;"/>](https://clynamic.net)
+[<img src="./logo.png" width="100px;"/>](https://clynamic.net)
 
 determined, diligent, distinguished.
 
